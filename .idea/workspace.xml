@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="054a7d91-8659-4231-926b-3cebf7cee635" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="573ffb9a-4f0a-404d-92b0-cf4ff7999423" />
+  <component name="ProjectId" id="1qW6XAoC0X3RRSAbgc3583N01uS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/WD/11-IJCAI2022/02-IJCAI材料/05-Source Code/UMF-CMGR/UMF-CMGR" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="054a7d91-8659-4231-926b-3cebf7cee635" name="Default Changelist" comment="" />
+      <created>1617183036474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617183036474</updated>
+      <workItem from="1617183040860" duration="2240000" />
+      <workItem from="1638495469477" duration="3041000" />
+      <workItem from="1638498859920" duration="155000" />
+      <workItem from="1644032684813" duration="2131000" />
+      <workItem from="1644395407545" duration="128000" />
+      <workItem from="1650508792746" duration="2969000" />
+      <workItem from="1650636526159" duration="25000" />
+      <workItem from="1650894596689" duration="642000" />
+      <workItem from="1650896867311" duration="113000" />
+      <workItem from="1652946401689" duration="795000" />
+      <workItem from="1653054460422" duration="15000" />
+      <workItem from="1653441337397" duration="230000" />
+      <workItem from="1653441715104" duration="620000" />
+      <workItem from="1653720936646" duration="37000" />
+      <workItem from="1653880649631" duration="934000" />
+      <workItem from="1654160150020" duration="19000" />
+      <workItem from="1654160419701" duration="28000" />
+      <workItem from="1662884547032" duration="411000" />
+      <workItem from="1662885260834" duration="781000" />
+      <workItem from="1663938982912" duration="2408000" />
+      <workItem from="1664418023900" duration="275000" />
+      <workItem from="1668391250367" duration="141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="215" key="FileChooserDialogImpl" timestamp="1668391390428">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="215" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1668391390428" />
+  </component>
+</project>
