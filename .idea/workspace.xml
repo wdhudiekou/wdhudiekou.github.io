@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -19,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/WD/11-IJCAI2022/02-IJCAI材料/05-Source Code/UMF-CMGR/UMF-CMGR" />
+    <property name="last_opened_file_path" value="D:/WD/05-ICRA-水下图像增强/STSC" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -51,7 +58,9 @@
       <workItem from="1663938982912" duration="2408000" />
       <workItem from="1664418023900" duration="275000" />
       <workItem from="1668391250367" duration="141000" />
-      <workItem from="1668583575364" duration="1316000" />
+      <workItem from="1668583575364" duration="1957000" />
+      <workItem from="1669346977351" duration="1223000" />
+      <workItem from="1670985991559" duration="549000" />
     </task>
     <servers />
   </component>
@@ -59,9 +68,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="501" y="215" key="FileChooserDialogImpl" timestamp="1668391390428">
+    <state x="501" y="215" key="FileChooserDialogImpl" timestamp="1670986543912">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="501" y="215" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1668391390428" />
+    <state x="501" y="215" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1670986543912" />
   </component>
 </project>
