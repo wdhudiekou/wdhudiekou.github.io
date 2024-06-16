@@ -33,7 +33,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/TH/Desktop/wdhudiekou.github.io",
+    "last_opened_file_path": "D:/WD/11-IJCAI2022/07-IJCAI扩期刊/01-source code/IMF/IMF",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -130,38 +130,11 @@
       <workItem from="1711897510976" duration="1000000" />
       <workItem from="1711949953485" duration="1441000" />
       <workItem from="1712302543259" duration="2242000" />
-      <workItem from="1718005923435" duration="1465000" />
+      <workItem from="1718005923435" duration="2196000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2577" y="135" key="#Deployment" timestamp="1710072319079">
-      <screen x="2160" y="0" width="1920" height="1040" />
-    </state>
-    <state x="313" y="119" key="#Deployment/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1710032822550" />
-    <state x="2577" y="135" key="#Deployment/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1710072319079" />
-    <state x="297" y="106" key="#SSH_Configurations" timestamp="1710032713245">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state x="297" y="106" key="#SSH_Configurations/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1710032713245" />
-    <state x="501" y="215" key="FileChooserDialogImpl" timestamp="1710032781573">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state x="501" y="215" key="FileChooserDialogImpl/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1710032781573" />
-    <state x="2621" y="152" key="SettingsEditor" timestamp="1710034144108">
-      <screen x="2160" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2621" y="152" key="SettingsEditor/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1710034144108" />
-    <state x="572" y="358" key="WebDeployment.AddServerDialog.v.1" timestamp="1710032620037">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state x="572" y="358" key="WebDeployment.AddServerDialog.v.1/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1710032620037" />
-    <state x="553" y="191" key="ftp.server.browser" timestamp="1710032821170">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state x="553" y="191" key="ftp.server.browser/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1710032821170" />
   </component>
 </project>
