@@ -3,7 +3,14 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="1cd60325-ad36-4ac3-abf9-70a08bc2c3a2" name="A800">
-        <fileTransfer rootFolder="/workspace/data/jxh/3m" accessType="SFTP" host="172.18.4.228" port="40022" sshConfigId="01fd42d1-818e-4ae2-a9e3-342ff5143a0d" sshConfig="root@172.18.4.228:40022 password">
+        <fileTransfer rootFolder="/workspace/data/jxh/3m" accessType="SFTP" host="172.25.76.182" port="22" sshConfigId="01fd42d1-818e-4ae2-a9e3-342ff5143a0d" sshConfig="jxh@172.25.76.182:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="cf14455c-3099-4c44-a268-ea867f34d97f" name="A100">
+        <fileTransfer rootFolder="/home/jxh" accessType="SFTP" host="172.25.76.182" port="22" sshConfigId="01fd42d1-818e-4ae2-a9e3-342ff5143a0d" sshConfig="jxh@172.25.76.182:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
