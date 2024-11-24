@@ -34,6 +34,11 @@
     &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;Python.Group barchart.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/TH/Desktop/wdhudiekou.github.io&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -165,6 +170,10 @@
       <workItem from="1722251465238" duration="641000" />
       <workItem from="1726287525564" duration="2186000" />
       <workItem from="1726801720237" duration="415000" />
+      <workItem from="1726977430023" duration="168000" />
+      <workItem from="1728395533402" duration="2318000" />
+      <workItem from="1730285598453" duration="1879000" />
+      <workItem from="1732451441716" duration="805000" />
     </task>
     <servers />
   </component>
