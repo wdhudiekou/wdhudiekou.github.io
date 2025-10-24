@@ -62,7 +62,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (pythonProject)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -80,7 +79,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Group barchart" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
